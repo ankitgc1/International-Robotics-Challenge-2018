@@ -13,8 +13,10 @@ In the IRC there are two bots one is Manual, and the other one is Autonomous bot
   
    In the image preprocessing part, the bot should detect colored boxes and stop in front of colored boxes until manual bot come and pick up that box. The raspberry pi and pi cam ware used. For color detection HSV color range ware used. The raspberry pi and The arduino uno ware connected through USB cable. Whenever the box detected the raspberry pi send a signal to arduino to stop for a while, and the manual bot comes and pick up the detected box.
 
-
-
+### Manual bot:-
+  In the manual bot, the bot should be able to pick up a box and keep the box a particular place as described in the problem statement. The bot has to complete some task. Arduino Uno, dc motors, motor drivers, servos, lipo battery, RC transmitter, and receiver module ware used to make the manual bot.
+  
+  
 #### Autonomous Bot
 ![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/autonomous_bot.jpg)
 ![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/autonomous_bot2.jpg)
