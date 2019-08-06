@@ -16,10 +16,19 @@ In the IRC there are two bots one is Manual, and the other one is Autonomous bot
 ### Manual bot:-
   In the manual bot, the bot should be able to pick up a box and keep the box a particular place as described in the problem statement. The bot has to complete some task. Arduino Uno, dc motors, motor drivers, servos, lipo battery, RC transmitter, and receiver module ware used to make the manual bot.
   
-  
+
+### Connections:-
+###### Autonomous_bot_connections:- 
+In the below picture the Autonomous bot connections are defined. Feel free to use code's connection.
+![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/Autonomous_bot_connections.jpg)
+
+###### manual_bot_connections:-
+In the below picture the Manual bot connections are defined. Feel free to use code's connection.
+![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/manual_bot_connections.png)
+
 #### Autonomous Bot
-![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/autonomous_bot.jpg)
-![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/autonomous_bot2.jpg)
+![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/autonomous_bot2.jpg)
+![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/autonomous_bot.jpg)
 
 #### Manual Bot
-![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/Manual_bot.jpg)
+![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/Manual_bot.jpg)
