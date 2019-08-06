@@ -18,11 +18,11 @@ In the IRC there are two bots one is Manual, and the other one is Autonomous bot
   
 
 ### Connections:-
-###### Autonomous_bot_connections:- 
+##### Autonomous_bot_connections:- 
 In the below picture the Autonomous bot connections are defined. Feel free to use code's connection.
 ![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/Autonomous_bot_connections.jpg)
 
-###### manual_bot_connections:-
+##### manual_bot_connections:-
 In the below picture the Manual bot connections are defined. Feel free to use code's connection.
 ![alt text](https://github.com/ankitgc1/International-Robotics-Challenge-2018/blob/master/images/manual_bot_connections.png)
 
